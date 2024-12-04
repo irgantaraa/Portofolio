@@ -42,7 +42,7 @@ Melakukan pengujian lengkap terhadap sistem **Hadir**, yang meliputi fitur-fitur
 **Hasil:**  
 Meningkatkan stabilitas dan kinerja sistem, memberikan pengalaman pengguna yang lebih baik.
 
-**Link GitHub:** [CucumberHadirApp](https://github.com/irgantaraa/CucumberHadirApp)
+**Link GitHub:** [HadirAppAutomationTesting](https://github.com/irgantaraa/HadirAppAutomationTesting)
 
 ---
 
